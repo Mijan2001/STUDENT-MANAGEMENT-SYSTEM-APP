@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">STUDENT MANAGEMENT SYSTEM</string>
+
+    <string name="app_setting">MenuBar2</string>
+    <string name="app_home">
+        Pabna University of Science and Technology (PUST) is a government financed public university in Bangladesh. PUST was established in 2008. It is
+        the first science and Technology University and third public University in Rajshahi Division. It started its four-year undergraduate programme in 2009.This university plays an innovative role in providing need-based higher education, training, and research. It is the 7th science and technology University and 29th public University in Bangladesh.Like other public universities, PUST admission test is considered to be very competitive. Based on the results of the Higher Secondary Examination every year, an estimated 50,000 students take the admission test against only 950 seats.
+    </string>
+    <string name="app_about">
+        History and Plans
+The government passed the Act in 15 July 2001 to establish a science and technology university in Pabna. The university will be located in the district head quarter of Pabna. Pabna is a central district town in northern Bangladesh having long historical and cultural heritage. The academic curriculum of the Pabna University of Science and Technology was started on 05 June 2008. This university will play an innovative role in providing need-based higher education, training and research. Also the university will be committed to maintain and raise the quality and standard of higher education for the students as in international standards. This practical and need-based curricula will produce highly qualified trained scientists and technologists for the needs of Bangladesh as well as the world employment market. The university offers education in science- and technology-based subjects for undergraduate and post graduate levels. This newly established university will occupies an area of about 30 acres, with a number of multi-storied buildings. Because of its location, it has already drawn the attention of brilliant students for admission and scholarly faculty members for teaching and research.
+    </string>
+
+    <string name="app_studentInfo">ALL STUDENTS DETAILS</string>
+
+    <string name="app_bloodGroup">
+        01  "\t\t" Jasim  "\t\t"  B+(Positive)  "\t\t"  01788-946696"\n"
+        02  "\t\t" Roman  "\t\t"  B+(Positive)  "\t\t"  01706-423645"\n"
+        03  "\t\t" Sakib  "\t\t"  B+(Positive)  "\t\t"  01826-619425"\n"
+        04  "\t\t" Prapya "\t\t"  O+(Positive)  "\t\t"  017400-17983"\n"
+        05  "\t\t" Poly "\t\t"    O+(Positive)  "\t\t"  016*********"\n"
+        06  "\t\t" Ahad  "\t\t"   B+(Positive)  "\t\t"  01954-275974"\n"
+        07  "\t\t" Sharmin  "\t\t"O+(Positive)  "\t\t"  016*********"\n"
+        08  "\t\t" Mijan  "\t\t"  O+(Positive)  "\t\t"  01740-017938"\n"
+        09  "\t\t" Utsha  "\t\t"  O+(Positive)  "\t\t"  01750-469039"\n"
+        10  "\t\t" Mithu  "\t\t"  B+(Positive)  "\t\t"  01780-506472"\n"
+        11  "\t\t" Jannati  "\t\t"A+(Positive)  "\t\t"  016*********"\n"
+        12  "\t\t" Mahi  "\t\t"   B+(Positive)  "\t\t"  016*********"\n"
+        13  "\t\t" Shuhag  "\t\t" O+(Positive)  "\t\t"  01891-850333"\n"
+        14  "\t\t" Shifat  "\t\t" A+(Positive)  "\t\t"  01838-057780"\n"
+        15  "\t\t" Saurav  "\t\t" A+(Positive)  "\t\t"  01701-937414"\n"
+        16  "\t\t" Naim  "\t\t"   A+(Positive)  "\t\t"  01701-937414"\n"
+        17  "\t\t" Nihal  "\t\t"  A+(Positive)  "\t\t"  01706-768636"\n"
+        18  "\t\t" Faruq  "\t\t"  AB+(Positive)  "\t\t" 01763-212000"\n"
+        19  "\t\t" Masum  "\t\t"  O+(Positive)  "\t\t"  01772-571959"\n"
+        20  "\t\t" Anoy  "\t\t"   B+(Positive)  "\t\t"  01773-927227"\n"
+        21  "\t\t" Chaity  "\t\t" B+(Positive)  "\t\t"  016*********"\n"
+        22  "\t\t" Aunkur  "\t\t" A+(Positive)  "\t\t"  01740-825362"\n"
+        23  "\t\t" Sayed  "\t\t"  O+(Positive)  "\t\t"  01700-986520"\n"
+        24  "\t\t" Rudro  "\t\t"  O+(Positive)  "\t\t"  01784-337747"\n"
+        25  "\t\t" Joty  "\t\t"   (Positive)  "\t\t"    016*********"\n"
+        26  "\t\t" Sabbir  "\t\t" B+(Positive)  "\t\t"  01869-084740"\n"
+        27  "\t\t" Rajesh  "\t\t" B+(Positive)  "\t\t"  01779-601942"\n"
+        28  "\t\t" Naeem  "\t\t"  B+(Positive)  "\t\t"  01737-769688"\n"
+        29  "\t\t" Shuvo  "\t\t"  A+(Positive)  "\t\t"  01303-697554"\n"
+        30  "\t\t" Rakibul  "\t\t"O+(Positive)  "\t\t"  01836-086708"\n"
+        31  "\t\t" Imran  "\t\t"  B+(Positive)  "\t\t"  01879-265658"\n"
+        32  "\t\t" Avi  "\t\t"    O+(Positive)  "\t\t"  01836-960463"\n"
+        33  "\t\t" Zim  "\t\t"    B+(Positive)  "\t\t"  01303-250276"\n"
+        34  "\t\t" Juel  "\t\t"   O-(Negative)  "\t\t"  01771-404992"\n"
+        35  "\t\t" Marsel  "\t\t" AB+(Positive)  "\t\t" 01784-373504"\n"
+        36  "\t\t" Rashik  "\t\t" B+(Positive)  "\t\t"  01772-145777"\n"
+        37  "\t\t" Rifat  "\t\t"  B+(Positive)  "\t\t"  01780-538316"\n"
+        38  "\t\t" Sadikul  "\t\t"O+(Positive)  "\t\t"  01719-389164"\n"
+        39  "\t\t" Pabitra  "\t\t"B+(Positive)  "\t\t"  01774-813487"\n"
+        40  "\t\t" Arjon  "\t\t"  B+(Positive)  "\t\t"  01706-318283"\n"
+        41  "\t\t" Fuad  "\t\t"   B+(Positive)  "\t\t"  01871-874919"\n"
+        42  "\t\t" Adit  "\t\t"   A+(Positive)  "\t\t"  01754-982117"\n"
+
+    </string>
+
+    <string name="app_cgpa">SEMISTER WISE CGPA CALCULATOR</string>
+
+</resources>

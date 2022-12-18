@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DDDDD5"
+    android:gravity="center"
+
+    tools:context=".MainActivity">
+
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:id="@+id/toolbarId"
+        app:logo="@drawable/ic_baseline_menu_24"
+        app:titleMarginStart="40dp"
+        tools:ignore="MissingConstraints"
+        android:layout_height="wrap_content"/>
+
+
+
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:orientation="vertical"
+        android:background="#D6D6C7"
+        android:gravity="center"
+        android:layout_height="350dp">
+
+        <Button
+            android:id="@+id/chooseImageButton"
+            android:layout_width="match_parent"
+            android:text="Choose Image"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/imageNameEditTextId"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:hint="Set Image Name"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:id="@+id/imageViewId"
+            android:layout_width="150dp"
+            android:src="@drawable/ic_baseline_person_24"
+            android:layout_height="150dp"/>
+
+        <ProgressBar
+            android:id="@+id/progressbarId"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/saveImageButton"
+            android:text="Save Image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/displayImageButton"
+            android:text="Display Image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>
